@@ -11,7 +11,7 @@ Hệ thống Điều khiển Đèn Giao thông Thích nghi dựa trên Thị gi�
 
 </div>
 
-##📖 Giới thiệu (Introduction)
+## 📖 Giới thiệu (Introduction)
 
 Đây là mã nguồn chính thức cho đề tài Khoa học Kỹ thuật: "Ứng dụng Trí tuệ Nhân tạo trong Điều khiển Đèn Giao thông nhằm Giảm Thiểu Ùn tắc tại Đô thị thông qua YOLOv11m và Gradient Boosting Machines".
 Dự án phát triển một hệ thống điều khiển đèn tín hiệu giao thông thông minh hoạt động theo cơ chế vòng lặp khép kín: Nhìn - Dự báo - Tối ưu - Chấp hành. Thay vì sử dụng chu kỳ đèn cố định (Fixed-time), hệ thống phân tích lưu lượng thực tế và dự báo tương lai để điều chỉnh pha đèn linh hoạt, giúp giảm thời gian chờ và giải tỏa ùn tắc.
