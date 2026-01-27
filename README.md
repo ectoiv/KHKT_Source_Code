@@ -4,7 +4,7 @@ Hệ thống Điều khiển Đèn Giao thông Thích nghi dựa trên Thị gi�
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.13.9-blue)
-![YOLO](https://img.shields.io/badge/YOLO-v8-orange)
+![YOLO](https://img.shields.io/badge/YOLO-v11-orange)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLO-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
