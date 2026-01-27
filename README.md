@@ -18,20 +18,12 @@ Dự án phát triển một hệ thống điều khiển đèn tín hiệu giao
 ## 🚀 Tính năng nổi bật (Key Features)
 
 * 👁️ Thị giác máy tính (Computer Vision): Sử dụng mô hình YOLOv11m (được huấn luyện lại) để phát hiện, phân loại phương tiện và đo đếm mật độ giao thông theo thời gian thực từ camera.
-+1
-
 
 * 📈 Dự báo lưu lượng (Traffic Prediction): Tích hợp thuật toán XGBoost (Gradient Boosting) để dự báo lưu lượng và hàng chờ phương tiện trong tương lai gần dựa trên dữ liệu lịch sử.
-+1
-
 
 * 🧠 Điều khiển tối ưu (Optimal Control): Áp dụng thuật toán Model Predictive Control (MPC) để tính toán chiến lược pha đèn tối ưu nhất trong một khoảng thời gian (horizon), cân bằng giữa giảm hàng chờ và làm mượt tín hiệu.
-+1
-
 
 * ⚡ Phần cứng IoT (Edge Computing): Sử dụng vi điều khiển ESP32 với kiến trúc đa luồng (FreeRTOS), giao tiếp qua WebSocket để điều khiển hệ thống đèn vật lý.
-+1
-
 
 * 🛡️ Cơ chế an toàn (Failsafe): Tự động chuyển đổi giữa các chế độ: AI Control (Điều khiển thông minh), Manual (Cố định) và Off (Nháy vàng) khi mất kết nối mạng.
 ## 🛠️ Kiến trúc hệ thống (System Architecture)
