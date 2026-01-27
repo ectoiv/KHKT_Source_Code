@@ -1,0 +1,2 @@
+# CLEARWAY---The-use-of-artificial-intelligence-in-reduce-traffic-jams-via-YOLO-and-GBM
+This research develops an intelligent traffic control system to mitigate urban congestion. Combining YOLOv11m for vehicle detection, XGBoost for flow prediction, and MPC for signal optimization, it creates a real-time 'Observe-Predict-Optimize' loop. Implemented on ESP32, the system replaces fixed cycles with adaptive control.
