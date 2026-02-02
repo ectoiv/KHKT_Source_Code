@@ -51,7 +51,7 @@ Hệ thống hoạt động theo mô hình Server-Client:
 2. Phần mềm (Server - AI Processing):
 * Yêu cầu: Python 3.8+, GPU NVIDIA (khuyên dùng để chạy YOLO mượt mà).
 * Cài đặt:
-  - pip install -r requirements.txt
+  - Vui lòng cài đặt tất cả các thư viện có sẵn và liên hệ thí sinh qua gmail đại diện của github này để nhận toàn bộ mô hình đã huấn luyện.
 3. Chạy hệ thống:
 * Khởi động sever: python main.py
 * Cấp nguồn cho esp32, thiết bị sẽ tự kết nối vào wifi và websocket
