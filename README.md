@@ -1,4 +1,4 @@
-# Clearway - INTELLIGENT TRAFFIC CONTROL SYSTEM.
+# Application of Artificial Intelligence in Traffic Light Control to Mitigate Urban Congestion via YOLOv11m and Gradient Boosting
 Hệ thống Điều khiển Đèn Giao thông Thích nghi dựa trên Thị giác Máy tính (YOLOv11), Học máy (XGBoost) và Điều khiển Dự báo (MPC)
 
 <div align="center">
